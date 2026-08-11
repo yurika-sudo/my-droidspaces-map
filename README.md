@@ -40,8 +40,6 @@ git clone --recursive --branch android13-5.15-lts https://android.googlesource.c
 # Android GKI Compat (5.15.123)
 git clone --recursive --branch deprecated/android13-5.15-2023-10 https://android.googlesource.com/kernel/common gki-compat --depth=1
 
-sleep 5
-
 # Qualcomm CLO MSM (5.15)
 git clone --recursive --branch kernel.lnx.5.15.r1-rel https://git.codelinaro.org/clo/la/kernel/msm-5.15 clo-common --depth=1
 ```
