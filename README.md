@@ -1,8 +1,8 @@
 # Droidspaces Environment Setup & Kernel Notes
 A minimal setup guide and reference note for setting up an Alpine Linux container inside Droidspaces.
 ### 📦 Essential Links
- * **RootFS Builder:** Droidspaces-rootfs-builder Releases
- * **Droidspaces App:** Droidspaces-OSS Releases
+ * **RootFS Builder:** [Droidspaces-rootfs-builder Releases](https://github.com/Droidspaces/Droidspaces-rootfs-builder/releases)
+ * **Droidspaces App:** [Droidspaces-OSS Releases](https://github.com/ravindu644/Droidspaces-OSS/releases)
 ### 🛠️ 1. Tools Installation & Base Setup
 Run these commands right after spinning up a fresh Alpine container:
 ```bash
